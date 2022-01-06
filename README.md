@@ -29,7 +29,7 @@ p.then(confirmation);
 
 As you saw I used another API (NEWS API) inside Alan to access news.
 
-Live code on: https://whatsup-now.netlify.app/
+Live code on: https://sup-now.netlify.app/
 
 ## NEWS API
 

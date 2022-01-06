@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a voice-controlled React application called 'SUP?-
+This is a mobile responsive voice-controlled React application called 'SUP?-
 Powered by: Alan AI Voice Assistant and NEWS API
 
 ## Alan

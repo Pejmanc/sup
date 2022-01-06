@@ -5,16 +5,16 @@ import useStyles from "./styles.js";
 
 const infoCards = [
   {
-    color: "#1565c0",
-    title: "News by Categories",
-    info: "Business, Entertainment, General, Health, Science, Sports, Technology",
-    text: "Give me the latest Technology news",
-  },
-  {
     color: "#4527a0",
     title: "News by Terms",
     info: "Bitcoin, Iran, Smartphones, Donald Trump...",
     text: "What's up with Corona",
+  },
+  {
+    color: "#1565c0",
+    title: "News by Categories",
+    info: "Business, Entertainment, General, Health, Science, Sports, Technology",
+    text: "Give me the latest Technology news",
   },
   {
     color: "#283593",

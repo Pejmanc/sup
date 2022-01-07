@@ -5,28 +5,22 @@ import useStyles from "./styles.js";
 
 const infoCards = [
   {
-    color: "#4527a0",
+    color: "#084a83",
     title: "News by Terms",
     info: "Bitcoin, Iran, Smartphones, Donald Trump...",
     text: "What's up with Corona",
   },
   {
-    color: "#1565c0",
+    color: "#084a83",
     title: "News by Categories",
     info: "Business, Entertainment, General, Health, Science, Sports, Technology",
     text: "Give me the latest Technology news",
   },
   {
-    color: "#283593",
+    color: "#084a83",
     title: "News by Sources",
     info: "CNN, Wired, Time, IGN, Buzzfeed, ABC News...",
     text: "Give me the news from CNN",
-  },
-  {
-    color: "#00838f",
-    title: "Latest News",
-    info: "Breaking news around the world",
-    text: "Give me the latest news",
   },
 ];
 

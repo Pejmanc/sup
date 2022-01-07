@@ -29,7 +29,6 @@ p.then(confirmation);
 
 As you saw I used another API (NEWS API) inside Alan to access news.
 
-Live code on: https://sup-now.netlify.app/
 
 ## NEWS API
 
@@ -38,3 +37,5 @@ For all the data used in the application I used NEWS API - https://newsapi.org/ 
 ## Setup
 
 - run `npm i && npm start` to start development server
+
+Live code on: https://sup-now.netlify.app/

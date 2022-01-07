@@ -34,4 +34,8 @@ export default makeStyles({
     display: "flex",
     justifyContent: "space-between",
   },
+  infoCard: {
+    display: "flex",
+    justifyContent: "space-between",
+  },
 });

@@ -14,7 +14,7 @@ const App = () => {
 
   useEffect(() => {
     alanBtn({
-      key: "195c984ff47a28736c0185b3faef1a392e956eca572e1d8b807a3e2338fdd0dc/stage",
+      key: process.env.REACT_APP_WEATHER_API_KEY,
       onCommand: ({ command, articles, number }) => {
         if (command === "newHeadlines") {
           setNewsArticles(articles);

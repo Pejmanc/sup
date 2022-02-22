@@ -57,7 +57,7 @@ const NewsCards = ({ articles, activeArticle }) => {
                 style={{ backgroundColor: infoCard.color }}
               >
                 <Typography className={classes.command}>
-                  Press the button and try saying: <br />{" "}
+                  Press the button on bottom right corner and try saying: <br />{" "}
                   <strong>{infoCard.text}</strong>
                 </Typography>
                 <Typography variant="h6" component="h6">

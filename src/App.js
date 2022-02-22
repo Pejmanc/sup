@@ -13,7 +13,7 @@ const App = () => {
 
   useEffect(() => {
     alanBtn({
-      key: process.env.REACT_APP_WEATHER_API_KEY,
+      key: process.env.REACT_APP_ALAN_API_KEY,
       onCommand: ({ command, articles, number }) => {
         if (command === "newHeadlines") {
           setNewsArticles(articles);
